@@ -5,7 +5,7 @@ A React Native App which is imitate Messenger App of old version after 200.0.
 ## Installation
 
 ```
-git clone https://github.com/tykdn/Messenger.git`
+git clone https://github.com/tykdn/Messenger-old.git`
 ```
 with yarn
 ```
