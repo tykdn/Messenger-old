@@ -37,8 +37,7 @@ build android apk
 npm run build_android
 ```
 ##  Screenshot of the currently completed part
-
-
+<img  src="./screenshot/messenger.gif" alt="img" align=center  width="25%" height="25%" />
 <div style="display:flex;">
   <img  src="./screenshot/Screenshot_1550592312.png" alt="img" align=center  width="25%" height="25%" />
   <img  src="./screenshot/Screenshot_1550592318.png"  alt="img" align=center  width="25%" height="25%" />
